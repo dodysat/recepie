@@ -1,6 +1,7 @@
-baseURL = 'https://dodysat.github.io/recepie/'
+baseURL = 'https://dodysat.github.io/'
 languageCode = 'id-id'
 title = 'Recepie'
+theme = 'pehtheme'
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
