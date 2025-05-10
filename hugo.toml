@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://dodysat.github.io/recepie/'
 languageCode = 'id-id'
 title = 'Recepie'
 [caches]
