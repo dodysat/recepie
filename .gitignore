@@ -1,0 +1,4 @@
+# gitignore for hugo project
+.DS_Store
+public/
+resources/
